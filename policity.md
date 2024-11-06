@@ -31,7 +31,6 @@ Acceso: Solicitar información sobre los datos personales que hemos recopilado.
 Rectificación: Solicitar la corrección de datos inexactos o incompletos.
 Cancelación: Solicitar la eliminación de tus datos personales cuando ya no sean necesarios para los fines para los que fueron recopilados.
 Oposición: Oponerte al tratamiento de tus datos en ciertos casos.
-Puedes ejercer tus derechos de protección de datos contactándonos a través de nuestro correo electrónico [correo@example.com].
 
 6. Retención de la información
 Conservamos tus datos personales solo durante el tiempo necesario para cumplir con los fines mencionados y según lo exijan las leyes aplicables en Perú. Cuando ya no sean necesarios, los datos serán eliminados de manera segura.
