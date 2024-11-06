@@ -1,6 +1,6 @@
 Política de Privacidad
 
-Última actualización: [Fecha]
+Última actualización: 6/11/2024
 
 Gracias por utilizar Asesor MTC. Nos comprometemos a proteger tu privacidad y a garantizar la seguridad de la información personal que nos proporcionas. Esta Política de Privacidad describe cómo recopilamos, utilizamos, compartimos y protegemos tus datos personales cuando usas nuestra aplicación de creación y gestión de documentos de logística para el transporte de mercadería.
 
